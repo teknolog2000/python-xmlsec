@@ -509,6 +509,7 @@ with io.open('README.rst', encoding='utf-8') as f:
 
 setup(
     name='xmlsec',
+    version='1.3.9',
     use_scm_version=True,
     description='Python bindings for the XML Security Library',
     long_description=long_desc,
